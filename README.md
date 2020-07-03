@@ -11,3 +11,6 @@ This project is about predicting the chances of a citizen to but one of the 3 se
 This is very much dependent on the cibil score.
 
 - **Graphs**: To show their talents
+
+
+Connected Rstudio with Git to see if it works fine.
